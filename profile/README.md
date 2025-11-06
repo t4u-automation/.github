@@ -1,6 +1,6 @@
 # T4U - AI-Powered Autonomous Test Automation
 
-**T4U** is an intelligent test automation platform that creates and executes web tests using natural language. Simply describe what you want to test, and AI agents powered by Claude 3.5 Sonnet will understand your goals, execute tests in isolated sandboxes, and generate stable, maintainable test scripts.
+**T4U** is an intelligent test automation platform that creates and executes web tests using natural language. Simply describe what you want to test, and AI agents powered by A.I. models will understand your goals, execute tests in isolated sandboxes, and generate stable, maintainable test scripts.
 
 ## Key Highlights
 
