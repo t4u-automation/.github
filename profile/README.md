@@ -6,7 +6,7 @@
 
 🎯 **Stable & Reliable** - Uses semantic Playwright locators (`by_role`, `by_placeholder`) instead of brittle CSS selectors. Tests survive page structure changes.
 
-🤖 **AI-Driven** - Write tests in plain English like "Login and validate the dashboard". Claude 3.5 Sonnet handles the complexity autonomously.
+🤖 **AI-Driven** - Write tests in plain English like "Login and validate the dashboard". A.I. model handles the complexity autonomously.
 
 ⚡ **Fast & Scalable** - Custom E2B templates with pre-installed Playwright achieve 6x faster startup (10s vs 60s). Run multiple tests in parallel with full isolation.
 
@@ -18,7 +18,7 @@
 
 ## Technology Stack
 
-FastAPI · Python 3.13+ · Claude 3.5 Sonnet · Playwright · E2B Sandboxes · Firebase · WebSockets (VNC)
+FastAPI · Python 3.13+ · Claude 3.5 Sonnet · KIMI2 · Playwright · E2B Sandboxes · Firebase · WebSockets (VNC)
 
 ## Perfect For
 
